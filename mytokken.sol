@@ -4,8 +4,8 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-        string public tokenName ="META";
-        string public tokenAbbrv ="mta";
+        string public tokenName ="BHALU";
+        string public tokenAbbrv ="BEAR";
         uint public totalSupply =0;
     // mapping variable here
         mapping(address =>uint) public balances;
